@@ -1,4 +1,4 @@
-# Experiment 2: Install Ubuntu Linux Using Oracle VirtualBox
+# Experiment 1: Install Ubuntu Linux Using Oracle VirtualBox
 
 ## Aim
 
